@@ -1,0 +1,9 @@
+/.vs/
+/Temp/
+*.sln
+*.csproj
+
+/Library
+/Logs
+/Packages/packages-lock.json
+/obj/Debug
